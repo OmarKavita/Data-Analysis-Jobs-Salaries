@@ -1,4 +1,4 @@
-# Data-Analysis-Jobs-Salaries: SUMMARY- 
+# Data Science-Jobs-Salaries: SUMMARY- 
 This project focuses on analyzing data scientist salaries using a dataset obtained from Kaggle(https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries). Additionally, a "companies" table has been added to provide further details about the companies.
 The primary goal of this project is to gain insights into the salary trends. Through SQL queries and data manipulation, I have adressed several relevant questions at basic-to-advanced level.
 
